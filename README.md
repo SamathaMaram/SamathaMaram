@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on AWS
-- 📫 How to reach me Youtube
+  
 
 <!---
 SamathaMaram/SamathaMaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
